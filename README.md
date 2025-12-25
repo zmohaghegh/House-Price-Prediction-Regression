@@ -11,7 +11,6 @@ This project implements a machine learning model to predict house prices based o
 ## 📊 Model Evaluation
 - **Algorithm:** Multiple Linear Regression
 - **Primary Metric:** R-squared (R2) and Mean Absolute Error (MAE)
-- **Visualization:** Actual vs. Predicted price scatter plots.
 
 ## 🚀 Key Learning
 This project demonstrates the full ML pipeline: from data loading and feature selection to model training and performance validation.
